@@ -7,14 +7,12 @@
 		}
 
 		::-webkit-scrollbar{
-			width:0;
+			width:0px;
 			height: 0px;
 
 		}
 		img {
 			width:100vw
-			
-
 		}
 
 		a{
